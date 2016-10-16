@@ -7,4 +7,4 @@ data/
 lib/geo-pooler.js
 
 .DS_Store
-
+.gitignore
