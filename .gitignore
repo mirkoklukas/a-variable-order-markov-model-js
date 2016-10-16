@@ -1,0 +1,10 @@
+notes.md
+notes.html
+
+node_modules/
+demo/
+data/
+lib/geo-pooler.js
+
+.DS_Store
+

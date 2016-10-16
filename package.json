@@ -1,0 +1,36 @@
+{
+  "name": "variable-order-markov-models-js",
+  "version": "1.0.0",
+  "description": "From sequence learning and compression after Lempel--Ziv towards Numenta's sequence memory. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lempel-Ziv",
+    "LZ78",
+    "sequence",
+    "learning",
+    "prediction",
+    "variable",
+    "order",
+    "markov",
+    "model",
+    "finite",
+    "state",
+    "machine",
+    "universal",
+    "sequential",
+    "learning"
+  ],
+  "dependencies" :
+  { 
+    "underscore": "latest",
+    "chalk": "latest",
+    "shuffle-array": "latest",
+    "winston": "latest",
+    "promise": "latest"
+  },
+  "author": "Mirko Klukas <mirko.klukas@gmail.com>",
+  "license": "ISC"
+}
